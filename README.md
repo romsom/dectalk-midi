@@ -8,4 +8,5 @@ You need python 3 and the mido and python-rtmidi packages as well as a dectalk `
 
 ## Usage
 You can play single phonemes via midi after adjusting the phoneme and midi port in the script like this:
+
 ```$ ./midi2dectalk.py | say```
